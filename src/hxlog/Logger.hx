@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	📝 Expressive TypeScript Logger for Node.js

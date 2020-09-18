@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	Log level IDs (0 - 6)

@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	Possible style settings of utils._inspectAndHideSensitive.styles

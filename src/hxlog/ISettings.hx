@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	The actual settings object

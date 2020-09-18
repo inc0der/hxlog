@@ -1,4 +1,4 @@
-package tslog.dist.interfaces;
+package hxlog.dist.interfaces;
 
 typedef IFullDateTimeFormatPart = {
 	var type : Any;

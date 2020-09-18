@@ -1,13 +1,9 @@
-package tslog;
+package hxlog;
 
 /**
-	LogObject that can safely be "JSON.stringifed". All circular structures have been "util.inspected" into strings
+	All relevant information about a log message.
 **/
-typedef ILogObjectStringifiable = {
-	/**
-		Log arguments
-	**/
-	var argumentsArray : Array<haxe.extern.EitherType<String, IErrorObjectStringifiable>>;
+typedef ILogObject = {
 	/**
 		Optional name of the instance this application is running on.
 	**/
@@ -39,6 +35,10 @@ typedef ILogObjectStringifiable = {
 		Log level ID (e.g. 3)
 	**/
 	var logLevelId : Int;
+	/**
+		Log arguments
+	**/
+	var argumentsArray : Array<Any>;
 	/**
 		Optional Log stack trace
 	**/

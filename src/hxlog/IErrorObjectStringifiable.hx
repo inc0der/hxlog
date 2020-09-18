@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	ErrorObject that can safely be "JSON.stringifed". All circular structures have been "util.inspected" into strings

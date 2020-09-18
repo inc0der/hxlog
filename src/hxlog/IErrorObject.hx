@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	Object representing an error with a stack trace

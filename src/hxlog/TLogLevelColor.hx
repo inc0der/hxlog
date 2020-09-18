@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	Hex colors of different log levels

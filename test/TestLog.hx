@@ -1,5 +1,5 @@
 import sys.io.File;
-import tslog.Logger;
+import hxlog.Logger;
 
 class TestLog {
   public static function main() {

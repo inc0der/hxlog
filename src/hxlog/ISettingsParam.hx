@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 import js.node.util.Inspect;
 

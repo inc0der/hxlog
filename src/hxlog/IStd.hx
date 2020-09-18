@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	StdOut and StdErr have to implement a write function (e.g. Stream)

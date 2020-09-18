@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	All relevant information about a log message

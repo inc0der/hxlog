@@ -1,4 +1,4 @@
-package tslog;
+package hxlog;
 
 /**
 	Function that generates a request ID.
