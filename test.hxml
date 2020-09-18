@@ -1,0 +1,7 @@
+-lib hxnodejs
+
+-cp src
+-cp test
+
+--main TestLog
+-js ./bin/test.js

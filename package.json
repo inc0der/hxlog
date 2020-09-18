@@ -1,0 +1,18 @@
+{
+  "name": "hxlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lix test.hxml && node ./bin/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslog": "^2.8.0"
+  },
+  "devDependencies": {
+    "lix": "^15.9.1"
+  }
+}
